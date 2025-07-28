@@ -40,14 +40,7 @@ Classifies brain MRI images into **4 categories**:
 - **Confusion Matrix** for performance
 - **Sample MRI Visualizations**
 - **Gradio Interface** for real-time image upload & prediction
-
----
-
-## 💾 Model Weights
-
-Trained model saved as: `brain_tumor_model_1.pth`  
-✔️ You can load it directly for inference
-
+  
 ---
 ## 🚀 How to Use
 
